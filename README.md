@@ -17,3 +17,4 @@ wangEditorExt,为wangEditor增加全屏编辑,查看源码功能
 ```
 
 [wangEditor项目](https://github.com/wangfupeng1988/wangEditor)
+[超级简单的JAVA mvc框架,全免配置](https://github.com/askmiw/simpleweb)
