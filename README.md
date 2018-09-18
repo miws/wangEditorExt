@@ -15,3 +15,5 @@ wangEditorExt,为wangEditor增加全屏编辑,查看源码功能
  * E.viewSource.init(editor);
  */
 ```
+
+[wangEditor项目](https://github.com/wangfupeng1988/wangEditor)
