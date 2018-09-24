@@ -15,6 +15,27 @@ wangEditorExt,为wangEditor增加全屏编辑,查看源码功能
  * E.viewSource.init(editor);
  */
 ```
+### 附上一个测试样例
+```
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<script src="https://cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
+</head>
+<body>
+	<div id="editor"></div>
+</body>
+</html>
+<script>
+var E = window.wangEditor;
+var editor = new E('#editor');
+editor.create();
+E.fullscreen.init(editor);
+E.viewSource.init(editor);
+</script>
+```
 
 [wangEditor项目](https://github.com/wangfupeng1988/wangEditor)
 [超级简单的JAVA mvc框架,全免配置](https://github.com/askmiw/simpleweb)
